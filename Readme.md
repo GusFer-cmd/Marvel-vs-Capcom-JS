@@ -2,9 +2,13 @@
 📄<br>Marvel vs Capcom Hero´s picker
 </h1>
 
-On this project i´ve tried to replicate the Marvel vs Capcom hero´s picker.
+## On this project i´ve tried to replicate the Marvel vs Capcom hero´s picker.
+  Using Javascript to play a sound with the hero name.
 
-Using Javascript to play a sound with the hero name.
+## Skills
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" />
 
 
 ## Contact
